@@ -2,6 +2,7 @@ fun main() {
     list()
     beefhouse()
     salerobasamo()
+    kecapbango()
 }
 
 fun list () {
@@ -20,5 +21,11 @@ fun beefhouse () {
 fun salerobasamo (){
     var gulaiasam = "-ikan kakap jumbo"
 
-    print(gulaiasam)
+    println(gulaiasam)
+}
+
+fun kecapbango (){
+    val alhadi = "-hitam rasa susu"
+
+    print(alhadi)
 }
