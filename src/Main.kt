@@ -29,3 +29,5 @@ fun kecapbango (){
 
     print(alhadi)
 }
+
+var 1 = "1"
